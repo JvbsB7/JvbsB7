@@ -22,10 +22,6 @@
 <div align="center">
   <a href="https://github.com/JvbsB7">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvbsB7&layout=compact&langs_count=6&theme=dark"/>
-    <br/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JvbsB7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <br/>
-    <img height="180em" src="https://streak-stats.demolab.com?user=JvbsB7&theme=dark&hide_border=false"/>
   </a>
 </div>
 
