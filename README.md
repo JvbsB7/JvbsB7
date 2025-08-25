@@ -22,6 +22,10 @@
 <div align="center">
   <a href="https://github.com/JvbsB7">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvbsB7&layout=compact&langs_count=6&theme=dark"/>
+    <br/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JvbsB7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <br/>
+    <img height="180em" src="https://streak-stats.demolab.com?user=JvbsB7&theme=dark&hide_border=false"/>
   </a>
 </div>
 
@@ -32,4 +36,3 @@
   <a href="mailto:jvbrito72@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-417696261" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-
