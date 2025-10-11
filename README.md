@@ -1,8 +1,8 @@
-## 👋 Olá, eu sou o João Vitor!
+## Olá, eu sou o João Vitor 👋
 
 🎓 Estudante de **Ciência da Computação** na UNIMAR  
 💻 Aprendendo e desenvolvendo projetos em **C#**, **React**, **TypeScript** e muito mais!  
-🚀 Sempre buscando evoluir, colaborar e compartilhar conhecimento.
+🚀 Sempre buscando evoluir e compartilhar conhecimento.
 
 ---
 
@@ -21,34 +21,9 @@
 ### 📊 Estatísticas do GitHub:
 <div align="center">
   <a href="https://github.com/JvbsB7">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JvbsB7&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvbsB7&layout=compact&langs_count=6&theme=dark"/>
   </a>
 </div>
-
----
-
-### 🔥 Streaks de Commits:
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JvbsB7&theme=dark&hide_border=false"/>
-</div>
-
----
-
-### 🧠 Atividade recente:
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-> ⚙️ Essa seção mostra seus commits e contribuições mais recentes.  
-> Você pode ativar automaticamente com a [GitHub Action “Readme Activity”](https://github.com/Readme-Workflows/recent-activity).
-
----
-
-### 🐍 Gráfico de contribuições:
-![Snake animation](https://github.com/JvbsB7/JvbsB7/blob/output/github-contribution-grid-snake.svg)
-
-> 💡 Esse gráfico é gerado automaticamente com uma GitHub Action.  
-> Mostra sua evolução visualmente — os commits viram uma animação dinâmica.
 
 ---
 
@@ -57,7 +32,3 @@
   <a href="mailto:jvbrito72@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-417696261" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-
----
-
-⭐ *“Código limpo, mente limpa. Um commit por vez, uma evolução por dia.”*
