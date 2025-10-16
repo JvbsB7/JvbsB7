@@ -1,7 +1,7 @@
 ## Olá, eu sou o João Vitor 👋
 
 🎓 Estudante de **Ciência da Computação** na UNIMAR  
-💻 Aprendendo e desenvolvendo projetos em **C#**, **React**, **TypeScript** e muito mais!  
+💻 Aprendendo e desenvolvendo projetos em **React-Native**, **React**, **TypeScript** e muito mais!  
 🚀 Sempre buscando evoluir e compartilhar conhecimento.
 
 ---
