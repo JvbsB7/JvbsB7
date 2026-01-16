@@ -1,9 +1,8 @@
 ## Olá, eu sou o João Vitor 👋
 
-🎓 Estudante de **Ciência da Computação** na **UNIMAR**
-💻 Desenvolvedor **Front-End** focado em experiências modernas e performáticas
-🚀 Apaixonado por tecnologia, produtos bem pensados e código limpo
-
+🎓 Estudante de **Ciência da Computação** na **UNIMAR**  
+💻 Desenvolvedor **Front-End** focado em experiências modernas e performáticas  
+🚀 Apaixonado por tecnologia, produtos bem pensados e código limpo  
 
 ---
 
