@@ -8,7 +8,7 @@
 
 ### 🧠 Sobre mim
 
-- Atualmente estudando e desenvolvendo com **React**, **React Native** e **TypeScript**
+- Atualmente estudando e desenvolvendo com **Next**, **React Native** e **TypeScript**
 - Curioso por arquitetura, boas práticas e padrões que escalam
 - Buscando evoluir todo dia — um commit de cada vez
 - Interesse real em produtos digitais que resolvem problemas de verdade
