@@ -1,53 +1,49 @@
 ## Olá, eu sou o João Vitor 👋
-
-🎓 Estudante de **Ciência da Computação** na **UNIMAR**  
-💻 Desenvolvedor **Front-End** focado em experiências modernas e performáticas  
-🚀 Apaixonado por tecnologia, produtos bem pensados e código limpo  
+🎓 Estudante de **Ciência da Computação** na **UNIMAR** (formatura em dez/2026)
+💻 **Full Stack Developer** | Front-End, Back-End & Mobile
+🚀 Cofundador da **Soul Tech** | Freelancer independente
 
 ---
 
 ### 🧠 Sobre mim
-
-- Atualmente estudando e desenvolvendo com **Next**, **React Native** e **TypeScript**
-- Curioso por arquitetura, boas práticas e padrões que escalam
-- Buscando evoluir todo dia — um commit de cada vez
-- Interesse real em produtos digitais que resolvem problemas de verdade
+- Full Stack Developer na **RJM Representações**, atuando também no administrativo
+- Cofundador da **Soul Tech Enterprise**, empresa de tecnologia em Marília-SP
+- Freelancer independente desde dez/2025
+- Recém finalizei meu TCC sobre processamento de sinais inerciais (IMU) para análise ergonômica
+- Interesse em Data Science, TinyML e arquitetura de sistemas que escalam
 
 ---
 
 ### 🚀 Tecnologias & Ferramentas
 
+**Front-End & Mobile**
 <p align="left">
-  <img alt="Next.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />&nbsp;&nbsp;
-  <img alt="Tailwind CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />&nbsp;&nbsp;
-  <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;
-  <img alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;
-  <img alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
-  <img alt="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;
-  <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,ts,tailwind" />
+</p>
+
+**Back-End & Dados** *(em aprendizado)*
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,rust,postgres,sqlite" />
 </p>
 
 ---
 
 ### 🧩 O que você vai encontrar por aqui
-
-- Projetos de estudo e aplicações práticas
-- Experimentos com APIs, front-end moderno e mobile
-- Repositórios focados em aprendizado
+- Sistemas full stack para negócios reais (gestão de vendas, automação)
+- Projetos pessoais de aprendizado em Rust e arquitetura de backend
+- Experimentos com Data Science, TinyML e IoT
+- Estudos e aplicações práticas em mobile (React Native / Flutter)
 
 ---
 
 ### 📊 GitHub Stats
-
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JvbsB7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvbsB7&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JvbsB7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvbsB7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
-
 ---
 
 ### 📬 Vamos conversar?
-
 <p align="left">
   <a href="mailto:jvbrito72@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -60,10 +56,9 @@
 ---
 
 ### 🏢 Soul Tech & Portfólio
+Sou cofundador da **Soul Tech**, empresa focada em **sites modernos**, **aplicações web**, **apps** e **sistemas sob medida**, sempre priorizando performance, design e soluções que geram valor real para o negócio.
 
-Sou cofundador da **Soul Tech**, uma empresa focada em desenvolver **sites modernos**, **aplicações web**, **apps** e **sistemas sob medida**, sempre priorizando performance, design e soluções que realmente geram valor para o negócio.
-
-🔗 **Site da Soul Tech:** [soultech.agency](https://soultech.agency)  
+🔗 **Site da Soul Tech:** [soultech.agency](https://soultech.agency)
 🎨 **Meu portfólio:** [portfolio-joaovitorb7.vercel.app](https://portfolio-joaovitorb7.vercel.app/)
 
 > Construindo produtos digitais com visão de longo prazo, base sólida e execução consistente.
