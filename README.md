@@ -6,11 +6,11 @@
 ---
 
 ### 🧠 Sobre mim
-- Full Stack Developer na **RJM Representações**, atuando também no administrativo
 - Cofundador da **Soul Tech Enterprise**, empresa de tecnologia em Marília-SP
 - Freelancer independente desde dez/2025
-- Recém finalizei meu TCC sobre processamento de sinais inerciais (IMU) para análise ergonômica
-- Interesse em Data Science, TinyML e arquitetura de sistemas que escalam
+- Apaixonado por arquitetura de sistemas, boas práticas e código que escala
+- Interesse em Data Science, TinyML e automação de processos
+- Sempre estudando algo novo — de Rust a Machine Learning
 
 ---
 
@@ -38,9 +38,10 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JvbsB7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JvbsB7&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JvbsB7&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JvbsB7&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
 ### 📬 Vamos conversar?
