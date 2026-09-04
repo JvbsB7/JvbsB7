@@ -60,6 +60,6 @@
 Sou cofundador da **Soul Tech**, empresa focada em **sites modernos**, **aplicações web**, **apps** e **sistemas sob medida**, sempre priorizando performance, design e soluções que geram valor real para o negócio.
 
 🔗 **Site da Soul Tech:** [soultech.agency](https://soultech.agency)
-🎨 **Meu portfólio:** [portfolio-joaovitorb7.vercel.app](https://portfolio-joaovitorb7.vercel.app/)
+🎨 **Meu portfólio:** [portfolio-joaovitorb7.vercel.app](https://me-joao.soultech.agency/)
 
 > Construindo produtos digitais com visão de longo prazo, base sólida e execução consistente.
