@@ -36,14 +36,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JvbsB7&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JvbsB7&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 📬 Vamos conversar?
 <p align="left">
   <a href="mailto:jvbrito72@gmail.com">
