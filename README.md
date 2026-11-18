@@ -28,6 +28,14 @@
 
 ---
 
+### 📊 Linguagens mais usadas
+
+<p align="left">
+  <img src="./profile/top-langs.svg" alt="Linguagens mais usadas nos meus repositórios públicos e privados" />
+</p>
+
+---
+
 ### 🧩 O que você vai encontrar por aqui
 - Sistemas full stack para negócios reais (gestão de vendas, automação)
 - Projetos pessoais de aprendizado em Rust e arquitetura de backend
