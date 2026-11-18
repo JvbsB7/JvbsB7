@@ -1,0 +1,50 @@
+name: Atualizar linguagens do perfil
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 6 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-languages
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Verificar acesso aos repositórios privados
+        env:
+          STATS_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+        run: |
+          if [ -z "$STATS_TOKEN" ]; then
+            echo "::error::Crie o secret GH_STATS_TOKEN com um token que tenha acesso aos seus repositórios privados."
+            exit 1
+          fi
+
+      - name: Obter arquivos do perfil
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+
+      - name: Gerar gráfico de linguagens
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: top-langs
+          options: username=JvbsB7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&locale=pt-br
+          path: profile/top-langs.svg
+          token: ${{ secrets.GH_STATS_TOKEN }}
+          fail_on_error: 'true'
+
+      - name: Salvar gráfico atualizado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/top-langs.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "Atualiza gráfico de linguagens"
+          git push
