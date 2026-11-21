@@ -1,16 +1,21 @@
-## Olá, eu sou o João Vitor 👋
-🎓 Estudante de **Ciência da Computação** na **UNIMAR** (formatura em dez/2026)
-💻 **Full Stack Developer** | Front-End, Back-End & Mobile
-🚀 Cofundador da **Soul Tech** | Freelancer independente
+<p align="center">
+  <img src="./profile/hero.svg" alt="João Vitor — Full Stack Developer e cofundador da Soul Tech" width="100%" />
+</p>
 
----
+<p align="center">
+  <a href="https://me-joao.soultech.agency/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" /></a>
+  <a href="https://soultech.agency"><img src="https://img.shields.io/badge/Soul%20Tech-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white" alt="Soul Tech" /></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-417696261"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:jvbrito72@gmail.com"><img src="https://img.shields.io/badge/Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+</p>
 
-### 🧠 Sobre mim
-- Cofundador da **Soul Tech Enterprise**, empresa de tecnologia em Marília-SP
-- Freelancer independente desde dez/2025
-- Apaixonado por arquitetura de sistemas, boas práticas e código que escala
-- Interesse em Data Science, TinyML e automação de processos
-- Sempre estudando algo novo — de Rust a Machine Learning
+## Olá! Eu sou o João Vitor 👋
+
+Crio **sites, aplicações web, apps e sistemas sob medida** para transformar ideias em produtos úteis. Sou estudante de **Ciência da Computação na UNIMAR** e cofundador da **Soul Tech**, em Marília-SP.
+
+- Foco em arquitetura de sistemas, boas práticas e experiências rápidas.
+- Estudando Data Science, TinyML, automação e backend com Rust.
+- Disponível para projetos e parcerias.
 
 ---
 
@@ -36,30 +41,16 @@
 
 ---
 
-### 🧩 O que você vai encontrar por aqui
-- Sistemas full stack para negócios reais (gestão de vendas, automação)
-- Projetos pessoais de aprendizado em Rust e arquitetura de backend
-- Experimentos com Data Science, TinyML e IoT
-- Estudos e aplicações práticas em mobile (React Native / Flutter)
+### ✨ Projetos em destaque
+
+| Projeto | O que é | Stack e links |
+| --- | --- | --- |
+| **F.O.G.O.** | Ferramenta Onisciente de Gestão e Operações, criada para o DSIN Coder Challenge 2026. | `TypeScript` · [Código](https://github.com/JvbsB7/fogo-dsin) |
+| **Jungle Gaming** | Interface de marketplace de NFTs criada como desafio de front-end. | `TypeScript` · [Demo](https://frontend-challenge-jungle-gaming-eight.vercel.app) · [Código](https://github.com/JvbsB7/frontend-challenge-jungle-gaming) |
+| **Dragon Universe** | Site oficial de um add-on de fãs para Minecraft Bedrock. | `TypeScript` · [Demo](https://jvbsb7.github.io/DragonUniverseWebSite/) · [Código](https://github.com/JvbsB7/DragonUniverseWebSite) |
 
 ---
 
-### 📬 Vamos conversar?
-<p align="left">
-  <a href="mailto:jvbrito72@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-417696261" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+### 🤝 Vamos construir algo juntos?
 
----
-
-### 🏢 Soul Tech & Portfólio
-Sou cofundador da **Soul Tech**, empresa focada em **sites modernos**, **aplicações web**, **apps** e **sistemas sob medida**, sempre priorizando performance, design e soluções que geram valor real para o negócio.
-
-🔗 **Site da Soul Tech:** [soultech.agency](https://soultech.agency)
-🎨 **Meu portfólio:** [portfolio-joaovitorb7.vercel.app](https://me-joao.soultech.agency/)
-
-> Construindo produtos digitais com visão de longo prazo, base sólida e execução consistente.
+Na **[Soul Tech](https://soultech.agency)**, desenvolvemos produtos digitais com foco em performance, design e resultado para o negócio. Conheça o **[meu portfólio](https://me-joao.soultech.agency/)** ou fale comigo pelo **[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-417696261)**.
