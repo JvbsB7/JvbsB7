@@ -38,11 +38,20 @@ jobs:
           token: ${{ secrets.GH_STATS_TOKEN }}
           fail_on_error: 'true'
 
+      - name: Gerar cartão de atividade
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
+        with:
+          card: stats
+          options: username=JvbsB7&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&locale=pt-br&custom_title=Atividade%20no%20GitHub
+          path: profile/stats.svg
+          token: ${{ secrets.GH_STATS_TOKEN }}
+          fail_on_error: 'true'
+
       - name: Salvar gráfico atualizado
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/top-langs.svg
+          git add profile/top-langs.svg profile/stats.svg
           if git diff --cached --quiet; then
             exit 0
           fi
