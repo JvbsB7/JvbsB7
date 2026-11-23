@@ -33,10 +33,11 @@ Crio **sites, aplicações web, apps e sistemas sob medida** para transformar id
 
 ---
 
-### 📊 Linguagens mais usadas
+### 📊 Linguagens & atividade
 
-<p align="left">
-  <img src="./profile/top-langs.svg" alt="Linguagens mais usadas nos meus repositórios públicos e privados" />
+<p align="center">
+  <img src="./profile/top-langs.svg" alt="Linguagens mais usadas nos meus repositórios públicos e privados" width="49%" />
+  <img src="./profile/stats.svg" alt="Estatísticas de atividade e commits no GitHub" width="49%" />
 </p>
 
 ### 🤝 Vamos construir algo juntos?
