@@ -9,7 +9,7 @@
   <a href="mailto:jvbrito72@gmail.com"><img src="https://img.shields.io/badge/Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
 </p>
 
-## Olá! Eu sou o João Vitor 👋
+## Boas-vindas! 👋
 
 Crio **sites, aplicações web, apps e sistemas sob medida** para transformar ideias em produtos úteis. Sou estudante de **Ciência da Computação na UNIMAR** e cofundador da **Soul Tech**, em Marília-SP.
 
